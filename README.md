@@ -1,4 +1,4 @@
-# Oii, meu nome é João Tentis e esse é o meu humilde GitHub. 👋
+# Oii, meu nome é João e esse é o meu humilde GitHub. 👋
 ### Algumas infos sobre mim:
 
 - 📚 Me encontro no 6º período de SI na CEFET.
