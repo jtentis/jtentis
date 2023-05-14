@@ -7,6 +7,12 @@
 
 Aqui lançarei alguns projetos diversos, tanto pessoais como da faculdade. A ideia é que sirva como portfólio e também para mapear minha evolução.
 
+# Profile Stats (tá patético, liga não 😢)
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jtentis&theme=2077)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jtentis&theme=2077)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jtentis&theme=2077) 
+
 #
 
 <div> 
@@ -15,7 +21,3 @@ Aqui lançarei alguns projetos diversos, tanto pessoais como da faculdade. A ide
     <a href = "mailto:jps.tentis@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/jtentis" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-#
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jtentis&theme=dracula) 
