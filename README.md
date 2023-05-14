@@ -5,7 +5,7 @@
 <!-- cŕeditos do banner: https://github.com/sonjoybarmon -->
  
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=4E96FF&width=435&lines=Oi%2C+meu+nome+%C3%A9+Jo%C3%A3o!)](https://git.io/typing-svg) ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-### Algumas infos sobre mim:
+## Algumas infos sobre mim:
 
 - 📚 Me encontro no 6º período de SI na CEFET.
 - 🧑‍💼 Sou estagiário mas não atuo na área de desenvolvimento.
@@ -13,7 +13,7 @@
 
 Aqui lançarei alguns projetos diversos, tanto pessoais como da faculdade. A ideia é que sirva como portfólio e também para mapear minha evolução.
 
-# **Profile Stats** (tá patético, liga não 😢)
+## Profile Stats (tá patético, liga não 😢)
 Com o tempo a gente vai melhorando isso aqui!
 
 </br>
