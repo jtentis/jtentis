@@ -44,5 +44,6 @@ Com o tempo a gente vai melhorando isso aqui!
     <a href="https://www.linkedin.com/in/jtentis" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
+
 > Silent battles are being fought, be kind.
     
