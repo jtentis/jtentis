@@ -23,15 +23,28 @@ Com o tempo a gente vai melhorando isso aqui!
 ![](https://streak-stats.demolab.com?user=jtentis&count_private=true&theme=transparent&border_radius=20)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jtentis&layout=compact&show_icons=true&theme=transparent&border_radius=20)
+
 </div>
  
 #
 
-<div> 
-    <img align="left" src="images/memezinho.png" width="300"/>
-    <a href="https://instagram.com/tnszpj" target="_blank"><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discordapp.com/users/351138216570650624" target="_blank"><img align="right" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:jps.tentis@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/jtentis" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div class="memes" align="center"> 
+    <img align="center" src="images/memezinho2.png" width="500"/>
+    <img align="center" src="images/memezinho.png" width="400"/>
+    &nbsp;
 </div>
 
+
+
+<div class="links" align="center"> 
+    <a href="https://instagram.com/tnszpj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://discordapp.com/users/351138216570650624" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="https://discordapp.com/users/351138216570650624" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:jps.tentis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/jtentis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
+</div>
+
+#
+> Silent battles are being fought, be kind.
+    
