@@ -7,11 +7,11 @@
 
 Aqui lançarei alguns projetos diversos, tanto pessoais como da faculdade. A ideia é que sirva como portfólio e também para mapear minha evolução.
 
-# Profile Stats (tá patético, liga não 😢)
+# Profile stats (tá patético, liga não 😢)
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jtentis&theme=2077)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jtentis&theme=2077)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jtentis&theme=2077) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jtentis&theme=rose_pine)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jtentis&theme=rose_pine)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jtentis&theme=rose_pine)
 
 #
 
