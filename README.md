@@ -30,7 +30,7 @@ Com o tempo a gente vai melhorando isso aqui!
 
 <div class="memes" align="center"> 
     <img align="center" src="images/memezinho2.png" width="350"/>
-    <img align="center" src="images/memezinho.png" width="272"/>
+    <img align="center" src="images/memezinho.png" width="269"/>
     &nbsp;
 </div>
 
