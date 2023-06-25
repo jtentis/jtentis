@@ -13,7 +13,7 @@
 
 Aqui lançarei alguns projetos diversos, tanto pessoais como da faculdade. A ideia é que sirva como portfólio e também para mapear minha evolução.
 
-## Profile Stats (tá patético, liga não 😢)
+## Profile Stats (tá melhorando 😢)
 Com o tempo a gente vai melhorando isso aqui!
 
 </br>
