@@ -8,7 +8,7 @@
 
 <div class="title" align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=30&pause=1000&center=true&vCenter=true&repeat=false&width=500&lines=Oi%2C+meu+nome+%C3%A9+Jo%C3%A3o!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=30&pause=1000&center=true&vCenter=true&repeat=false&width=500&lines=Oi%2C+meu+nome+%C3%A9+Jo%C3%A3o!)](https://git.io/typing-svg)
 
 # Algumas infos sobre mim
 
