@@ -16,8 +16,7 @@
 
 - 📚 Me encontro no 7º período de SI na CEFET.
 - 🧑‍💼 Sou estagiário mas não atuo na área de desenvolvimento.
-- 🌊 Prentendo me aprofundar como Dev Mobile.
-- ✏️ Aprendendo [Reactive Native](https://reactnative.dev/)
+- ✏️ Aprendendo [JavaScript](), [CSS]() e [HTML](), para depois focar em [Reactive Native](https://reactnative.dev/).
 
 Aqui lançarei alguns projetos diversos, tanto pessoais como da faculdade. A ideia é que sirva como portfólio e também para mapear minha evolução.
 
