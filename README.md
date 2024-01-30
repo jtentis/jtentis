@@ -14,8 +14,8 @@
 
 </div>
 
-- 📚 Me encontro no 7º período de SI na CEFET.
-- 🧑‍💼 Atualmente trabalhando como Desenvolvedor.
+- 📚 Me encontro no 8º período de SI na CEFET.
+- 🧑‍💼 Atualmente trabalhando como Desenvolvedor Full Stack.
 - ✏️ Foco pessoal de estudo atual: [JavaScript](), [HTML](), [CSS]() e [Figma]() . <!-- , para depois focar em [Reactive Native](https://reactnative.dev/) -->
 
 Aqui lançarei alguns projetos diversos, tanto pessoais como da faculdade. A ideia é que sirva como portfólio e também para mapear minha evolução.
