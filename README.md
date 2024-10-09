@@ -14,7 +14,7 @@
 
 </div>
 
-- 📚 Me encontro no 9º período de SI na CEFET.
+- 📚 Estou atualmente no 9º período de SI no CEFET/RJ.
 - 🧑‍💼 Atualmente trabalhando como Desenvolvedor Full Stack.
 - ✏️ Foco pessoal de estudo atual: [React Native]().
 
