@@ -16,7 +16,8 @@
 
 - 📚 Estou atualmente no 9º período de SI no CEFET/RJ.
 - 🧑‍💼 Atualmente trabalhando como Desenvolvedor Full Stack.
-- ✏️ Foco pessoal de estudo atual: [React Native]().
+- ✏️ Foco pessoal de estudo atual: Docker, Kubernets, AWS, Software Architecture.
+
 
 Aqui lançarei alguns projetos diversos, tanto pessoais como da faculdade. A ideia é que sirva como portfólio e também para mapear minha evolução.
 
