@@ -14,7 +14,7 @@
 
 </div>
 
-- 📚 Estou atualmente no 9º período de SI no CEFET/RJ.
+- 📚 Formado em Sistemas de Informação pelo CEFET/RJ.
 - 🧑‍💼 Atualmente trabalhando como Desenvolvedor Full Stack.
 - ✏️ Foco pessoal de estudo atual: Docker, Kubernets, AWS, Software Architecture.
 
