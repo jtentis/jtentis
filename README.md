@@ -15,7 +15,7 @@
 </div>
 
 - 📚 Formado em Sistemas de Informação pelo CEFET/RJ.
-- 🧑‍💼 Atualmente trabalhando como Desenvolvedor Full Stack.
+- 🧑‍💼 Atualmente trabalhando como Analista de Sistemas.
 - ✏️ Foco pessoal de estudo atual: Docker, Kubernets, AWS, Software Architecture.
 
 
