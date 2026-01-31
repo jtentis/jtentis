@@ -1,5 +1,5 @@
 <div class="image" align="center">
-<img align="center" src="https://camo.githubusercontent.com/ec6e701d5e31850db670217ea82f9f4757ce95be5313b17c3b6f57ea591887d5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966"
+<img align="center" src="https://camo.githubusercontent.com/f63e22ea6f6b43ec238a4cd59f987675b38bf101effcd153812b26d6b6829174/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966"
 
 <!-- cŕeditos do banner: https://github.com/sonjoybarmon -->
 </div>
@@ -26,17 +26,13 @@ Aqui lançarei alguns projetos diversos, tanto pessoais como da faculdade. A ide
 <div class="main2" align="center">
 
 # Profile Stats 
-Com o tempo a gente vai melhorando isso aqui!
 
 </div>
 
 <div class="stats" align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=jtentis&hide=stars&count_private=true&show_icons=true&theme=transparent&border_radius=20)
-
-![](https://streak-stats.demolab.com?user=jtentis&count_private=true&theme=transparent&border_radius=20)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jtentis&layout=compact&show_icons=true&theme=transparent&border_radius=20)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=jtentis&hide=issues&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jtentis&hide=java&theme=transparent&layout=compact)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <!-- https://marwin1991.github.io/profile-technology-icons/ -->
 
